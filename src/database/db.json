@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "title": "321312",
+      "completed": false,
+      "author": "321312",
+      "id": 5
+    },
+    {
+      "title": "labas",
+      "completed": false,
+      "author": "labas",
+      "id": 6
+    },
+    {
+      "title": "321312",
+      "completed": false,
+      "author": "321312",
+      "id": 7
+    },
+    {
+      "title": "321321",
+      "completed": false,
+      "author": "321312",
+      "id": 8
+    },
+    {
+      "title": "nauja uzduotis",
+      "completed": false,
+      "author": "labas",
+      "id": 9
+    },
+    {
+      "title": "labgas",
+      "completed": false,
+      "author": "321",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "Tomas",
+      "email": "tom@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Martynas",
+      "email": "martynas@gmail.com",
+      "id": 3
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "logo": "#"
+    }
+  ]
+}

@@ -1,4 +1,8 @@
 import { Component } from '@angular/core';
+import { Task } from './interfaces/task';
+
+// Importuojame tasks service
+import { TaskService } from './services/task.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +11,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-json-server-todo-list';
+
+  // Nurodome, kad kintamasis yra Task tipo masyvas
+  // Injectiname tasks service i komponenta
+  constructor() {
+  }
 }
